@@ -1,5 +1,8 @@
 A Nextjs app to help you create guided low-quality content quickly & easily for the use cases of Brand Awareness and Social Media Marketing.  
 
+![App Screenshot](public/Screenshot.png)
+
+
 ## Getting Started
 
 First, run the development server:
